@@ -1,4 +1,4 @@
-public class Ejercicio3 { 
+public class ejercicio3 { 
   public static void main(String[] args){
     
     String nombre = "Silvia Hidalgo Moreno";
