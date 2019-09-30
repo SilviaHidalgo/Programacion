@@ -1,4 +1,4 @@
-public class ejercicio5 { 
+public class Ejercicio5 { 
   public static void main(String[] args){
     System.out.printf(" \033[31m %-10s %-10s %-10s %-10s %-10s\n", "Lunes","Martes","Miércoles","Jueves","Viernes");
     System.out.printf(" \033[32m %-10s %-10s %-10s %-10s %-10s\n", "EED","PRO","PRO","PRO","FOL");
