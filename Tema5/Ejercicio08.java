@@ -12,9 +12,9 @@ public class Ejercicio08 {
       
       for(int i=1; i<=10; i++){
         
-      mult = num * i;
+        mult = num * i;
       
-      System.out.println (num+" x "+i+" = "+mult);
+        System.out.println (num+" x "+i+" = "+mult);
       
       }
    
