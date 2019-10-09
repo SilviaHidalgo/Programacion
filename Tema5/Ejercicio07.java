@@ -15,13 +15,13 @@ public class Ejercicio07 {
         
         if (combi==1234){
         
-        System.out.println("La combinación es correcta, la caja fuerte se ha abierto");
+            System.out.println("La combinación es correcta, la caja fuerte se ha abierto");
         
         }
         
         else{
         
-        System.out.println("La combinación no es correcta, vuelve a intentarlo.");
+            System.out.println("La combinación no es correcta, vuelve a intentarlo.");
         
         }
         
