@@ -6,7 +6,7 @@ public class Ejercicio09{
     
     while(salir){
     
-      int num = (int)(Math.random()*100)+1;
+      int num = (int)(Math.random()*101);
       
       if( num == 24){
         
