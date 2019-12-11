@@ -9,7 +9,7 @@ public class Ejercicio40 {
 
     System.out.println("Array original: ");
     muestraArrayInt(numeros);
-    System.out.println("Capicúas: ");
+    System.out.println("Filtro con 7: ");
     muestraArrayInt(filtraCon7(numeros));
   }
 
